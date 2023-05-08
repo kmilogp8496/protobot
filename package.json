@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npx nitropack dev",
+    "build": "npx nitropack build",
+    "preview": "node .output/server/index.mjs"
+  },
+  "dependencies": {
+    "nitropack": "latest"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2"
+  }
+}
