@@ -1,8 +1,8 @@
 # Installation
 
 ```bash
-pnpm i -g node-red node-red-contrib-coap node-red-contrib-interval node-red-dashboard node-red-node-random
-pnpm i
+npm i -g node-red node-red-contrib-coap node-red-contrib-interval node-red-dashboard node-red-node-random
+npm i
 node-red
 ```
 
